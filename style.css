@@ -1,0 +1,46 @@
+.p {
+    background-image: url('Cyber-Frontpage.jpg');
+}
+.div {
+    padding-top: 150px;
+    padding-bottom: auto;
+}
+.body {
+    background-image: url('Cyber-Frontpage.jpg');
+    background-size: 1950px;
+}
+.h1 {
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; 
+    font-size: 60px;
+    color: rgb(44, 98, 168);
+}
+.a {
+    display: inline-block;
+    padding: 5px 5px 5px 5px;
+    border-radius: 50px;
+    border: solid 2px;
+    cursor: pointer;
+    font-size: 30px;
+    text-decoration: none;
+    text-align: center;
+    font-family:'Courier New', Courier, monospace;
+    position: absolute;
+    top: 50%;
+    right: 55%;
+    color: rgb(53, 73, 185);
+}   
+.b {
+    display: inline-block;
+    padding: 5px 5px 5px 5px;
+    border-radius: 50px;
+    border: solid 2px;
+    cursor: pointer;
+    font-size: 30px;
+    text-decoration: none;
+    text-align: center;
+    font-family:'Courier New', Courier, monospace;
+    position: absolute;
+    top: 50%;
+    left: 55%;
+    color: rgb(53, 73, 185);
+}  
